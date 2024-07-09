@@ -1,0 +1,12 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+opencv-python
+pytesseract
+fuzzywuzzy
+python-Levenshtein
+matplotlib
+streamlit
+tqdm
+Pillow
